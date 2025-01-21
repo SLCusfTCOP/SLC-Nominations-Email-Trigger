@@ -10,7 +10,7 @@
 
 // **Important Notes:**
 // - Do not modify the templates; they should only be copied for use.
-// - If the original code on the template is accidentally altered (please avoid this), a backup copy is available on GitHub: REDACTED
+// - If the original code on the template is accidentally altered (please avoid this), a backup copy is available on GitHub: https://github.com/SLCusfTCOP/SLC-Nominations-Email-Trigger/blob/main/main.js
 // - For additional guidance, refer to the linked YouTube tutorial: REDACTED.
 
 // Thank you, and good luck! If you follow these instructions carefully, everything should work smoothly. Have fun!
